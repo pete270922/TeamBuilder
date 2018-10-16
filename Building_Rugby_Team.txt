@@ -1,0 +1,8 @@
+Title: How to build a new rugby (sports program) team at an organization where it didn't exist?
+
+Team:  Peter Gallagher, (future & past team members e.g. Andrew Norris, James Phillips IV, Jordan Hua, Cale Corwin, Erskine Wilson, Drew Radley, Elizabeth Engler, and all small project members)
+
+Scope: To maintain a sustainable future it is important to ensure that a team can succeed when people experience life and resources succumb to trial of time.  Building a team to succeed in the long term with a rotational line-up.  It is important to make sure that the program will serve a constructive purpose to ensure resources for participants.
+
+Technology:
+React, Node, MongoDB, Mongoose, Heroku, Javascript, JSX, SQL

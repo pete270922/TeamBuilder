@@ -1,0 +1,19 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "Team Builder App - Allows entries to be managed.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test "
+  },
+  "keywords": [
+    "Team",
+    "Builder"
+  ],
+  "author": "Pete Gallagher",
+  "license": "ISC"
+}
